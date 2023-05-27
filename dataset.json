@@ -1,0 +1,38 @@
+[
+  {
+    "query": "What's the weather like today?",
+    "category": "Weather",
+    "response": "The weather today is sunny and warm."
+  },
+ 
+  {
+    "query": "Tell me a joke.",
+    "category": "Entertainment",
+    "response": "Why don't scientists trust atoms? Because they make up everything!"
+  },
+  {
+    "query": "What's the capital of France?",
+    "category": "General Knowledge",
+    "response": "The capital of France is Paris."
+  },
+  {
+    "query": "How to bake a chocolate cake?",
+    "category": "Cooking",
+    "response": "To bake a chocolate cake, you'll need ingredients such as flour, sugar, cocoa powder, eggs, and butter."
+  },
+  {
+    "query": "What movies are playing in theaters?",
+    "category": "Entertainment",
+    "response": "The current movies playing in theaters are 'Avengers: Endgame', 'Spider-Man: Far From Home', and 'Toy Story 4'."
+  },
+   {
+    "query": "whats the timing of McDonald?",
+    "category": "Entertainment",
+    "response": "Most probably its 6:00-12:00 PM"
+  },
+     {
+    "query": "How do I reset my password?",
+    "category": "Account",
+    "response": "To reset your password, please visit the account settings page."
+  },
+]
